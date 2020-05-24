@@ -17,6 +17,7 @@ nav {
   align-items: center;
   padding: 0 16px;
   font-family: sans-serif;
+  border-bottom: 3px solid red;
 }
 
 nav h1 {
